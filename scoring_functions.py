@@ -7,7 +7,6 @@ from rdkit.Chem import AllChem
 from rdkit import DataStructs
 from rdkit.Chem import rdMolDescriptors
 from rdkit.Avalon import pyAvalonTools
-from sklearn import svm
 from subprocess import check_output as run
 import pandas as pd
 import time
