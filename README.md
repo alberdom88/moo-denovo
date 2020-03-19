@@ -11,10 +11,11 @@ This package requires Anaconda Python 3.6 and the following packages:
 * tensorflow
 * molsets (pip package)
 
-`conda create --name moo-denovo python=3.6`
-`conda activate moo-denovo`
-`conda install pyqt matplotlib pytorch rdkit pexpect tensorflow`
-`pip install molsets`
+Installation:
+* `conda create --name moo-denovo python=3.6`
+* `conda activate moo-denovo`
+* `conda install pyqt matplotlib pytorch rdkit pexpect tensorflow`
+* `pip install molsets`
 
 ## Usage
 
